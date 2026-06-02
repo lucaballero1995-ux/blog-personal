@@ -70,13 +70,15 @@ ul {
     margin-bottom: 0.5rem;
 }
 
-#sobre-mi aside {
-    float: right;
-    width: 180px;
-    margin-left: 2rem;
+.contenido-sobre-mi {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 2rem;
 }
 
-#sobre-mi aside img {
-    width: 100%;
+.contenido-sobre-mi img {
+    width: 250px;
     height: auto;
+    margin-right: 7.5rem;
 }
