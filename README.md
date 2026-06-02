@@ -17,7 +17,7 @@ Proyecto realizado con HTML5 y CSS3 para practicar estructura semántica, navega
 ![Vista de IPhone](assets/img/pantalla%20-%20iPhone.png)
 
 ## Demo
-Link a GitHub Pages
+[Link a GitHub Pages](https://lucaballero1995-ux.github.io/blog-personal/)
 
 ## Autor
 Lucas Nahuel Caballero
