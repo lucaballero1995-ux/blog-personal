@@ -69,3 +69,14 @@ ul {
  .errores ul {
     margin-bottom: 0.5rem;
 }
+
+#sobre-mi aside {
+    float: right;
+    width: 300px;
+    margin-left: 2rem;
+}
+
+#sobre-mi aside img {
+    width: 100%;
+    height: auto;
+}
